@@ -10,14 +10,7 @@
         <li><strong>HSC in Computer Science</strong> | Sambaviga Hr. Sec. School (2019 - 2021)</li>
     </ul>
     
-  <h2 style="color: #333;">💼 Experience</h2>
-    <ul>
-        <li><strong>CTF Player</strong> | TryHackMe (January 2023 - Present)
-            <ul>
-                <li>Actively participating in Capture The Flag (CTF) challenges on TryHackMe, which allows me to hone practical cybersecurity skills through hands-on challenges and real-world scenarios.</li>
-            </ul>
-        </li>
-    </ul>
+
     
   <h2 style="color: #333;">🛠️ Skills</h2>
     <ul>
