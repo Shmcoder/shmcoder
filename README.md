@@ -1,4 +1,4 @@
-![Header](1694541972989.jpeg)
+![Header](_B06E083B-4D41-4DA0-B6DA-921DED08F616_-removebg-preview.png)
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
     <h1 style="color: #333;">About Me 👨‍💻</h1>
