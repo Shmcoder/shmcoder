@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header]()
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
     <h1 style="color: #333;">About Me 👨‍💻</h1>
@@ -41,6 +41,7 @@
     <ul>
         <li><strong>Email:</strong> shyamsankar3100@gmail.com</li>
         <li><strong>Phone:</strong> +91 6382844553</li>
+        <li><strong>Location:</strong> Coimbatore - 641048</li>
     </ul>
     
   <p>Let's connect and collaborate on GitHub! ✌️</p>
