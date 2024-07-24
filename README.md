@@ -2,12 +2,12 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
     <h1 style="color: #333;">About Me 👨‍💻</h1>
-    <p>Hello! I'm <strong>Vaishak T</strong>, a dedicated and passionate Cyber Security enthusiast from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at <strong>DR.N.G.P. Institute of Technology</strong>, with a CGPA of 7.6. My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of cybersecurity.</p>
+    <p>Hello! I'm Shyam Sankar M, passionate on Coding enthusiast from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at Dr. NGP Institute of Technology, with a 70 % . My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of Front End dev.</p>
     
   <h2 style="color: #333;">🎓 Education</h2>
     <ul>
-        <li><strong>B.E. in Computer Science</strong> | DR.N.G.P. Institute of Technology (Nov 2021 - Present)</li>
-        <li><strong>HSC in Computer Science</strong> | GRD-CPF (March 2019 - July 2021)</li>
+        <li><strong>B.E. in Computer Science</strong> | DR.N.G.P. Institute of Technology (2021 - Present)</li>
+        <li><strong>HSC in Computer Science</strong> | Sambaviga Hr. Sec. School (2019 - 2021)</li>
     </ul>
     
   <h2 style="color: #333;">💼 Experience</h2>
@@ -21,38 +21,29 @@
     
   <h2 style="color: #333;">🛠️ Skills</h2>
     <ul>
-        <li><strong>Programming Languages:</strong> C, SQL, Python</li>
-        <li><strong>Libraries/Frameworks:</strong> Javascript</li>
-        <li><strong>Tools/Platforms:</strong> Adobe Photoshop, Burpsuite, Kali Linux, TryHackMe</li>
-    </ul>
-    
-  <h2 style="color: #333;">🚀 Projects / Open-Source Contributions</h2>
-    <ul>
-        <li><strong>SHA_XK MALWARE</strong>
-            <ul>
-                <li>Developed advanced malware using C and C++, incorporating techniques like shellcode and DLL injection for discreet program manipulation.</li>
-                <li>Rewrote NTDLL functionalities to optimize system-level interactions, demonstrating expertise in low-level programming.</li>
-            </ul>
-        </li>
+        <li><strong>Programming Languages:</strong> Java</li>
+        <li><strong>Libraries/Frameworks:</strong>Javascript, React JS, Bootstrap</li>
+        <li><strong>Tools/Platforms:</strong> Adobe Photoshop, Figma , Canva , Git(Version Control)</li>
     </ul>
     
   <h2 style="color: #333;">📜 Certifications</h2>
     <ul>
-        <li>Windows Privilege Escalation for Beginners - TCM Security</li>
-        <li>Linux Privilege Escalation for Beginners - TCM Security</li>
-        <li>IBM Introduction to Cloud Computing - Coursera</li>
+        <li>MongoDB with NodeJS - Verzeo</li>
+        <li>Java - SkillUp</li>
+        <li>Front-End Web Development Essentials - DevTown (GDSC KIIT Chapter)</li>
+        <li>HTML, CSS, React, PHP, JS, Bootstrap - Udemy</li>
         <li>Front End Apps with React Js - YardStick</li>
     </ul>
-    
-  <p>I am committed to continuous learning and exploring new technologies. My GitHub repositories reflect my journey and passion for cybersecurity and programming. Feel free to explore my projects, and connect with me if you share similar interests or have opportunities for collaboration.</p>
+    <h2 style="color: #333;">🎯 Career Objective</h2>
+  <p>"Aspire to secure a challenging position in Computer Science as a CSE Student , utilizing my technical skills and creativity to develop innovative software solutions."</p>
     
   <h2 style="color: #333;">📞 Contact</h2>
     <ul>
-        <li><strong>Email:</strong> thangarajk178@gmail.com</li>
-        <li><strong>Phone:</strong> +91 9629822438</li>
+        <li><strong>Email:</strong> shyamsankar3100@gmail.com</li>
+        <li><strong>Phone:</strong> +91 6382844553</li>
     </ul>
     
-  <p>Let's connect and collaborate on GitHub! 🤝</p>
+  <p>Let's connect and collaborate on GitHub! ✌️</p>
 </body>
 
 
