@@ -14,7 +14,7 @@
     
   <h2 style="color: #333;">🛠️ Skills</h2>
     <ul>
-        <li><strong>Programming Languages:</strong> Java</li>
+        <li><strong>Programming Languages:</strong> Java,Html ,css </li>
         <li><strong>Libraries/Frameworks:</strong>Javascript, React JS, Bootstrap</li>
         <li><strong>Tools/Platforms:</strong> Adobe Photoshop, Figma , Canva , Git(Version Control)</li>
     </ul>
