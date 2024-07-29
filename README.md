@@ -2,7 +2,7 @@
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
     <h1 style="color: #333;">About Me 👨‍💻</h1>
-    <p>Hello! I'm Shyam Sankar M, passionate on Coding enthusiast from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at Dr. NGP Institute of Technology, with a 70 % . My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of Front End dev.</p>
+    <p>Hello! I'm Shyam Sankar M, passionate on Coding enthusiast from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at Dr. NGP Institute of Technology with a 70 % grade . My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of Front End dev.</p>
     
   <h2 style="color: #333;">🎓 Education</h2>
     <ul>
