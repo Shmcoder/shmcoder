@@ -1,7 +1,7 @@
 ![Header](_B06E083B-4D41-4DA0-B6DA-921DED08F616_-removebg-preview.png)
 
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
-    <center><h1 style="color: #333;">About Me 👨‍💻</h1></center>
+    <h1 style="color: #333;"><center>About Me 👨‍💻</center></h1>
     <p>Hello! I'm Shyam Sankar M, passionate on Coding enthusiast from Coimbatore, India. Currently, I'm pursuing my B.E. in Computer Science at Dr. NGP Institute of Technology with a 70 % grade . My journey into the world of technology started early and has been enriched by my academic endeavors and hands-on experiences in the field of Front End dev.</p>
     
   <h2 style="color: #333;">🎓 Education</h2>
